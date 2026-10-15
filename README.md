@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Teeha
 
-<!--
-**teehacodes/teehacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSCS Student | Entering 3rd Semester
 
-Here are some ideas to get you started:
+A CS student with a foundation in C and Object-Oriented Programming in Java. Now moving forward to core Computer Science subjects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Learning in 3rd Semester:**
+ Data Structures
+ Discrete Structures  
+ Software Engineering 
+ Linear Algebra
+
+**Tech Stack:** C, Java (OOP), Git & GitHub (Learning)
+
+**Focus:** Building strong problem-solving skills and learning Data Structures in depth.
+
+Let's connect and learn together!
