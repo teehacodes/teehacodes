@@ -1,3 +1,4 @@
+![Banner](./IMG-20261023-WA2241.jpg)
 ### Hi, I'm Teeha
 
 BSCS Student | Entering 3rd Semester
